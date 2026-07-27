@@ -1,0 +1,18 @@
+{
+  "name": "duckhunt3d",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Duck Hunt 3D — remake moderno em Three.js do Duck_shooter_game_JS",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.185.1"
+  },
+  "devDependencies": {
+    "vite": "^8.1.5"
+  }
+}
